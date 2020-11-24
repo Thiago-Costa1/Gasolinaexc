@@ -1,0 +1,13 @@
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).csprojAssemblyReference.cache
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfo.cs
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).exe
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).deps.json
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.json
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.dev.json
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\washi\Desktop\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\washi\Desktop\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).genruntimeconfig.cache
